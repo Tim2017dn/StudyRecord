@@ -37,6 +37,8 @@ public class testUser {
 }
 ```
 
-pictures/截屏2020-05-26下午3.40.18.png
-![1](./../pictures/1.png)
+
+![1](./pictures/1.png)
+
+
 
