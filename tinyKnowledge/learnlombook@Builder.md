@@ -37,8 +37,6 @@ public class testUser {
 }
 ```
 
+pictures/截屏2020-05-26下午3.40.18.png
+![1](./../pictures/1.png)
 
-
-https://github.com/Tim2017dn/StudyRecord/blob/master/pictures/%E6%88%AA%E5%B1%8F2020-05-26%E4%B8%8B%E5%8D%883.40.18.png
-
-https://github.com/Tim2017dn/StudyRecord/blob/master/pictures/%E6%88%AA%E5%B1%8F2020-05-26%E4%B8%8B%E5%8D%883.45.50.png
