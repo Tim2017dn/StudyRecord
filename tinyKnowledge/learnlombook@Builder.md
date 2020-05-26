@@ -41,6 +41,6 @@ public class testUser {
 
  
 
-![image-20200526154028227](/Users/dn/Library/Application Support/typora-user-images/image-20200526154028227.png)
+![截屏2020-05-26下午3.45.50](/Users/dn/Documents/personRecord/学习笔记/gitResource/StudyRecord/pictures/截屏2020-05-26下午3.45.50.png)
 
-![image-20200526154614029](/Users/dn/Library/Application Support/typora-user-images/image-20200526154614029.png)
+![截屏2020-05-26下午3.40.18](/Users/dn/Documents/personRecord/学习笔记/gitResource/StudyRecord/pictures/截屏2020-05-26下午3.40.18.png)
