@@ -1,0 +1,10 @@
+2020-08-03 16:31:03.541  INFO 3615 --- [main] c.d.leanredis.LeanredisApplicationTests  : Starting LeanredisApplicationTests on dndeMacBook-Pro.local with PID 3615 (started by dn in /Users/dn/Documents/projectWorkspace/ideaWorkspace/leanredis)
+2020-08-03 16:31:03.547  INFO 3615 --- [main] c.d.leanredis.LeanredisApplicationTests  : No active profile set, falling back to default profiles: default
+2020-08-03 16:31:04.214  INFO 3615 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-08-03 16:31:04.218  INFO 3615 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-08-03 16:31:04.250  INFO 3615 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 12ms. Found 0 Redis repository interfaces.
+2020-08-03 16:31:06.467  INFO 3615 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-03 16:31:07.036  INFO 3615 --- [main] c.d.leanredis.LeanredisApplicationTests  : Started LeanredisApplicationTests in 3.994 seconds (JVM running for 5.21)
+2020-08-03 16:31:07.278  INFO 3615 --- [main] c.d.leanredis.LeanredisApplicationTests  : 这是一个测试
+2020-08-03 16:31:07.302  INFO 3615 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-03 16:31:07.303  INFO 3615 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...

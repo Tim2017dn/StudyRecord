@@ -1,0 +1,29 @@
+server:
+  port: 8001
+
+mybatis:
+  type-aliases-package: com.dn.springcloud.pojo
+  mapper-locations: classpath:mybatis/mapper/.*xml
+
+spring:
+  application:
+    name: provider-dept
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/ssm?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=GMT%2B8
+    username: root
+    password: 12341234
+
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+  instance:
+    instance-id: provider-8001
+
+info:
+  app.name: dn_com_dept
+  company_name: dn_com
+
