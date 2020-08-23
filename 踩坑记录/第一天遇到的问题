@@ -1,0 +1,14 @@
+第一天遇到的问题
+
+1）brew安装失败
+稀里糊涂解决
+
+2）sudo mkdir -p /data/applogs/
+无法创建
+
+解决：需要关闭sip
+http://hyuga.top/2020/02/03/mac-Read-Only-filesystem/
+
+3）文件移动失败 没有权限
+解决：命令行
+sudo cp -r appenv /data/webapps

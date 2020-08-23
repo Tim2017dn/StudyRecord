@@ -1,0 +1,17 @@
+
+mysql路径
+
+启动MySQL服务
+sudo /usr/local/MySQL/support-files/mysql.server start
+ 
+停止MySQL服务
+sudo /usr/local/mysql/support-files/mysql.server stop
+ 
+重启MySQL服务
+sudo /usr/local/mysql/support-files/mysql.server restart
+
+遇到无法连接 有可能是之前设置强密码
+Go to System Preferences -> MySQL
+From Instance tab, choose Initialize Database
+Choose Use legacy Password Encryption
+Restart the Server
